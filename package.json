@@ -2,7 +2,7 @@
   "title": "LJE",
   "description": "Tabris.js - LJE",
   "category": "Small Apps",
-  "main": "src/LJE.js",
+  "main": "scr/LJE.js",
   "dependencies": {
     "tabris": "^2.1.0"
   }
