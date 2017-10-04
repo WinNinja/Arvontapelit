@@ -2,9 +2,9 @@
 <widget id="LJE.app" version="1.0.0">
   <name>LJE</name>
   <description>
-    Antaa sinulle Lotton Jokerin Eurojackpotin rivit
+    Näyttää sinulle Lotolle, Jokerille ja Eurojackpotille hyviä rivejä
   </description>
-  <author email="joona.koukkari2@edu.vaasa.fi" href="http://vao.fi">
+  <author email="joona.koukkari2@edu.vaasa.fi" href="http://vamia.fi">
     JK
   </author>
 </widget>
